@@ -1,11 +1,9 @@
 package demo;
 
 public class Greet {
-  public void greet() {
-    System.out.println("Greetings!");
-  }
 
-  public void greet(String input) {
-    System.out.println(input);
+  public void greet(String input1, String input2) {
+    System.out.println(input1 + input2);
   }
 }
+
