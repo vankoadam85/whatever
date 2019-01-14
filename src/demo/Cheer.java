@@ -1,3 +1,5 @@
+package demo;
+
 public class Cheer {
 
   public void cheer() {
