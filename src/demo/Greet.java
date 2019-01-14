@@ -8,5 +8,9 @@ public class Greet {
   public void greet(String input) {
     System.out.println(input);
   }
+
+  public void greet(String input, String inputAgain) {
+    System.out.println(input + inputAgain);
+  }
 }
 
