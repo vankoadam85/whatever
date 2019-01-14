@@ -2,8 +2,8 @@ package demo;
 
 public class Count {
 
-  public void count() {
-    System.out.println(10);
+  public void count(int a, int b) {
+    System.out.println(10 + a + b);
   }
 
 }
