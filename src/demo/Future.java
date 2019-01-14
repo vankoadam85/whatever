@@ -1,7 +1,7 @@
 package demo;
 
 public class Future {
-  public void future(String zodiac){
-    System.out.println(zodiac);
+  public void future(){
+    System.out.println("rat");
   }
 }
